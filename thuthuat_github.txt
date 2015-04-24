@@ -8,3 +8,4 @@ git@github.com:huuhaido/bootstrap.git
 4) lưu lại private_key
 5) tạo thư mục
 6) add private key vào.
+Thêm password để bảo vệ private key mà thôi.
