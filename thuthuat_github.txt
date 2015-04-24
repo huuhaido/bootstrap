@@ -1,0 +1,10 @@
+1) Tạo Repository name trên github.com trước.
+2) chọn ssh trên web.
+git@github.com:huuhaido/bootstrap.git
+3) Tạo public key cho git, dựa putty-gen.
+- nhấp generate
+- ko nhập password
+- copy key lên ssh của github.com
+4) lưu lại private_key
+5) tạo thư mục
+6) add private key vào.
